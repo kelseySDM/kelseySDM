@@ -3,7 +3,7 @@ layout: page
 title: User Information 
 permalink: /user/
 ---
-Information and Links for users of Safe DM
+<br>
 ![link to dashboard](/images/dashboard.png)
 
 ![FAQ](/images/faq.png)
