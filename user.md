@@ -6,6 +6,6 @@ permalink: /user/
 <br>
 ![link to dashboard](/images/dashboard.png)
 
-![FAQ](/images/faq.png)
+[![FAQ](/images/faq.png)](/faq/)
 
  
