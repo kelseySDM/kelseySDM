@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User Information 
+title: 
 permalink: /user/
 ---
 <br>
