@@ -30,4 +30,4 @@ We suggest all testing participants refrain from including their face in the pho
 
 ### Contact us
 
-[kelsey@safedm.com](mailto:kelsey@safedm.com)
+[info.safedm@gmail.com](mailto:info.safedm@gmail.com)
