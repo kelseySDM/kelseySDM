@@ -4,9 +4,9 @@ title: User Information
 permalink: /user/
 ---
 Information and Links for users of Safe DM
-# Dashboard 
+![link to dashboard](/images/dashboard.png)
 
-# FAQ
+![FAQ](/images/faq.png)
 
 ## Q: Can I turn the filter off?
 
