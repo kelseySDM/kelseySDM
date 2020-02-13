@@ -19,4 +19,4 @@ The filter will be available starting 2.14.20
 
 ### Contact us
 
-[info.safedm@gmail.com](mailto:info.safedm@gmail.com)
+[contact@defensatechnologies.com](mailto:contact@defensatechnologies.com)
