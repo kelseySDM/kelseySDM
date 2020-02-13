@@ -8,4 +8,6 @@ permalink: /user/
 
 [![FAQ](/images/faq.png)](/faq/)
 
+[![TOS](/images/tos.png)](/tos/)
+
  
