@@ -10,4 +10,5 @@ permalink: /user/
 
 [![TOS](/images/tos.png)](/tos/)
 
+[![Privacy Policy](/images/privacy.png)](/privacy/)
  
