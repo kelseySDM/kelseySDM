@@ -5,4 +5,6 @@ permalink: /registration/
 ---
 
 
-# coming 2.14.20
+Sign up for the filter at
+[https://register.safedm.com/](
+https://register.safedm.com/)
