@@ -19,4 +19,4 @@ The filter will be available starting 2.14.20
 
 ### Contact us
 
-[contact@defensatechnologies.com](mailto:contact@defensatechnologies.com)
+[contact@defensatechnologies.org](mailto:contact@defensatechnologies.org)
